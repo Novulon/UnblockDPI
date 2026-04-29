@@ -1,24 +1,19 @@
 # UnblockDPI — Deep Packet Inspection
 Have you ever wanted to visit blocked websites?
 
-It's your lucky day mate, this is a DPI that runs on startup, never shows a window, and unblocks everything for aslong as you live, unless you decide to uninstall it which only takes 5 seconds.
+It's a DPI that runs on startup, never shows a window, and unblocks everything.
 
-This DPI acts like a VPN in every form but with Improved Internet speeds and faster loading.
+Be wary: this program does not change your IP address or your location.
 
-Be wary: this program does not change your IP address, your location, or your life choices.
+I made this specifically for me and my cousins to play roblox since vpns suck
 
 
 Purpose:
 
 -Unblocks most blocked Websites and Programs
 
--Slightly faster Wi-Fi Speeds (beta)
-
--Less ping while gaming
-
--Faster loading times in Websites and Programs
-
 Please Note that this is still in alpha release and suggestions will help.
 Reach out to me at:
 
 Discord: 1z11
+(Please don't reach out to me asking for proof if the program works. The program itself is free, add me if you have issues or suggestions. I have also changed some of the information that describes the DPI since now It's beta release)
