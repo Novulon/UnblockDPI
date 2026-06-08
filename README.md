@@ -1,19 +1,20 @@
 # UnblockDPI — Deep Packet Inspection
-Have you ever wanted to visit blocked websites?
 
-It's a DPI that runs on startup, never shows a window, and unblocks everything.
+UnblockDPI is a simple tool designed to instantly unblock restricted websites and programs. It was created specifically to unblock Roblox for users facing regional or network blocks.
 
-Be wary: this program does not change your IP address or your location.
+It runs completely in the background from the moment you start your PC, so you never have to deal with keeping a window open
 
-I made this specifically for me and my cousins to play roblox since vpns suck
+What it Does:
+Unblocks Sites & Apps: Bypasses network-level restrictions so you can access Roblox and other blocked programs freely.
 
+Ping Optimization: Generic bypass methods can cause terrible in-game lag. UnblockDPI includes custom code specifically written to keep your ping low and stable for gaming.
 
-Purpose:
+No VPN Slowdowns: Traditional VPNs route your traffic through slow, faraway servers. UnblockDPI works locally, meaning you keep 100% of your native internet speed.
 
--Unblocks most blocked Websites and Programs
+Runs Silently: Configured to launch invisibly on Windows startup. It does its job in the background without cluttering your screen.
 
-Please Note that this is still in alpha release and suggestions will help.
-Reach out to me at:
+Warning:
+This is not VPN, it doesn't route your data through external servers, it will not hide your physical location or change your IP address.
 
-Discord: 1z11
-(Please don't reach out to me asking for proof if the program works. The program itself is free, add me if you have issues or suggestions. I have also changed some of the information that describes the DPI since now It's beta release)
+If you have any feedback or need help setting it up:
+discord: 1z11
