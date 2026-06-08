@@ -1,4 +1,4 @@
-# UnblockDPI — Deep Packet Inspection
+# Unblock DPI — Deep Packet Inspection
 
 UnblockDPI is a tool designed to instantly unblock restricted websites and programs. It was created specifically to unblock Roblox for users facing regional or network blocks.
 
