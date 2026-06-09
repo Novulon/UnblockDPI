@@ -5,13 +5,13 @@ Unblock DPI is a tool designed to instantly unblock restricted websites and prog
 
 It runs completely in the background from the moment you start your PC, so you never have to deal with keeping a window open
 
-Download link:
+Download links:
 
-https://github.com/Novulon/UnblockDPI/releases/tag/UnblockDPI-1.0
+https://github.com/Novulon/UnblockDPI/releases/download/UnblockDPI-1.0/UnBlockDPI.1.0.rar
 
-If you still can't access Roblox or Discord get this DNS Version instead: (Boosts ping and Unblocks more platforms but might come with connectivity issues)
+If you still can't access Roblox or Discord get this DNS Version instead: (Reduces ping and Unblocks more platforms but might come with connectivity issues)
 
-https://github.com/Novulon/UnblockDPI/releases/tag/UnBlockDPI-DNS-1.0
+https://github.com/Novulon/UnblockDPI/releases/download/UnBlockDPI-DNS-1.0/UnBlockDPI.1.0.rar
 
 DPI Explanation:
 Unblocks Sites & Apps: Bypasses network-level restrictions so you can access Roblox and other blocked programs freely.
