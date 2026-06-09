@@ -10,7 +10,7 @@ Some antivirus programs may flag UnblockDPI as a false positive because it inclu
 https://github.com/bol-van/zapret
 
 If your antivirus blocks the installation, you may need to temporarily disable it.
-Once installed, the antivirus will not delete anything since then it won't detect a threat. Think of it as judging a book by its cover.
+Once installed, the antivirus will not interfere since then it won't detect a threat. Think of it as judging a book by its cover.
 
 If you have any questions or need help setting it up:
 discord: 1z11
